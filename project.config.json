@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "./dist",
+	"projectname": "huiToutiao",
+	"description": "toutiao of taro",
+	"appid": "wx6f83c1256c927879",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"condition": {}
+}
